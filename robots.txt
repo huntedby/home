@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /screener/
+
+Sitemap: https://hunted.by/sitemap.xml
